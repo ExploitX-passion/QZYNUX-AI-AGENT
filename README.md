@@ -83,52 +83,62 @@ python modules/gui/floating_ball.py
 
 # 3. Or run main entry point
 python main.py
+```
 
+---
 
-## Requirements:- 
+-Requirements-:-
 
-|**Component**	| **Requirement**                                       |
-|---------------|-------------------------------------------------------|
-|**OS	            | Linux (Kali recommended), Windows/WSL, macOS **         |
-|**RAM	        | 8GB minimum, 16GB recommended **                        |
-|**Storage	    | 350GB external drive (models + data ),50GB recommended**|
-|**Python	        | 3.10+  **                                               |
-|**GPU	        | Optional (CPU-only works)       **                      |
+Component Requirement
+OS Linux (Kali recommended), Windows/WSL, macOS
+RAM 8GB minimum, 16GB recommended
+Storage 350GB external drive (models + data), 50GB recommended
+Python 3.10+
+GPU Optional (CPU-only works)
 
+---
 
-## Models Included:-
-|**Model**	        |**Size**	 |**Purpose **                      |
-|---------------|--------|--------------------------------|
-|**phi3**	        |**2.2 GB**	 |**Quick tasks, daily chat**         |
-|**qwen3:8b**	    |**5.2 GB**	 |**Reasoning, long context (131K), mostly calculations handled by developer(s) with custom functions for fast output of normal calculations     **     |
-|**deepseek-r1:7b**	|**4.7 GB**	 |**Security, CTF, code generation  **|
-|**glm4:9b	**    |**5.2 GB**	 |**Function calling, tool use **     |
+Models Included:-
 
+Model Size Purpose
+phi3 2.2 GB Quick tasks, daily chat
+qwen3:8b 5.2 GB Reasoning, long context (131K), mostly calculations handled by developer(s) with custom functions for fast output of normal calculations
+deepseek-r1:7b 4.7 GB Security, CTF, code generation
+glm4:9b 5.2 GB Function calling, tool use
 
-## Documentation:-
+---
 
-   ** LICENSE.md — Usage terms**
+Documentation:-
 
-    **LICENSE2.md -- Usage terms of Pyqt6**
+· LICENSE.md — Usage terms
+· LICENSE2.md — Usage terms of PyQt6
+· NOTICE.md — Third-party credits
+· COMMERCIAL-LICENSE.md — Commercial licensing
 
-    **NOTICE.md — Third-party credits**
+---
 
-   ** COMMERCIAL-LICENSE.md — Commercial licensing**
+License:-
 
-## License:-
+This project is licensed under Apache 2.0 with Commons Clause.
 
-**This project is licensed under Apache 2.0 with Commons Clause.
+✅ Personal use, modification, study allowed
 
-    ✅ Personal use, modification, study allowed
+❌ Commercial use, selling, SaaS without permission
 
-    ❌ Commercial use, selling, SaaS without permission
+For commercial licensing: exploitxpassion@proton.me
 
-For commercial licensing: exploitxpassion@proton.me**
-## Disclaimer:-
+---
 
-**This software is for educational and personal use only.
+Disclaimer:-
+
+This software is for educational and personal use only.
 Unauthorized use for malicious purposes is strictly prohibited.
-The author assumes no liability for misuse.**
-## Contact:-
+The author assumes no liability for misuse.
 
-    📧 Email: exploitxpassion@proton.me
+---
+
+Contact:-
+
+📧 Email: exploitxpassion@proton.me
+
+```
