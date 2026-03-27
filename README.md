@@ -98,7 +98,7 @@ Cron jobs, scheduled tasks, conditional triggers, workflow automation.
 | **phi3**           | 2.2 GB | Quick tasks, daily chat                               |
 | **qwen3:8b**       | 5.2 GB | Reasoning, long context (131K). Complex calculations handled by custom math functions for instant output |
 | **deepseek-r1:7b** | 4.7 GB | Security, CTF, code generation, logical reasoning     |
-| **glm4:9b**        | 5.2 GB | Function calling, tool use, long context (128K), chat |
+| **glm4:9b**        | 5.5 GB | Function calling, tool use, long context (128K), chat |
 
 ---
 
