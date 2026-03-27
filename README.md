@@ -75,6 +75,8 @@ Community plugins, sandboxed execution, permission-based install.
 **Automation**
 Cron jobs, scheduled tasks, conditional triggers, workflow automation.
 
+**Note: The features listed above represent only a fraction of QZYNUX's capabilities. In total, QZYNUX ships with 375+ features covering every aspect of automation, security, and productivity.**
+
 ---
 
 ## Requirements
