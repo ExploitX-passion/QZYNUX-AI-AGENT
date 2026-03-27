@@ -38,13 +38,13 @@ respective licenses is maintained.
 
 ### deepseek-r1:7b (DeepSeek)
 - **License**: MIT
-- **Source**: https://huggingface.co/deepseek-ai/DeepSeek-R1-7B
+- **Source**: https://ollama.com/library/deepseek-r1:7b
 - **Size**: 4.7 GB
 - **Purpose**: Security, CTF, code generation, logical reasoning.
 
 ### glm4:9b (Zhipu AI / Tsinghua University)
 - **License**: Apache 2.0
-- **Source**: https://huggingface.co/THUDM/glm-4-9b-chat
+- **Source**: 
 - **Size**: 5.0 GB
 - **Purpose**: Function calling, tool use, long context (128K), chat.
 
