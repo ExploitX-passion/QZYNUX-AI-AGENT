@@ -32,7 +32,7 @@ respective licenses is maintained.
 
 ### qwen3:8b (Alibaba Cloud)
 - **License**: Apache 2.0
-- **Source**: https://huggingface.co/Qwen/Qwen3-8b h  w r
+- **Source**: https://huggingface.co/Qwen/Qwen3-8b
 - **Size**: 5.2 GB
 - **Purpose**: Reasoning, long context (131K), general tasks.
 
