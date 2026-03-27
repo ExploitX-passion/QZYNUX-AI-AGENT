@@ -1,19 +1,25 @@
 # 🔴 QZYNUX — Personal AI Assistant
 
-**Version:** 1.0  
-**Created by:** ExploitX_Passion  
+**Version:** 1.0.0\\*
+
+**Created by:** EXPLOITX PASSION
+
 **License:** Apache 2.0 with Commons Clause
+
 **GUI Framework:** PyQt6 (GPL v3 / Commercial)
+
+\* *Same codebase runs on all supported platforms*
 
 ---
 
 ## Overview
 
-Qzynux is a **privacy-first, offline-capable AI assistant** designed for security researchers, ethical hackers, and power users.
+Qzynux is a **privacy-first, dual-mode AI assistant** designed for security researchers, ethical hackers, and power users.
 
-- Lives on an external drive (350GB)
-- Works 100% offline
-- Understands Hindi & English naturally
+- Installed **locally** on your system (recommended 50GB space)
+- Works offline AND online (dual-mode)
+- Internet only required for license validation and updates
+- Understands 170+ languages including Hindi & English naturally
 - Controls terminals & security tools
 - Never sends your data anywhere
 
@@ -71,74 +77,62 @@ Cron jobs, scheduled tasks, conditional triggers, workflow automation.
 
 ---
 
-## Quick Start
+## Requirements
 
-```bash
-# 1. Activate virtual environment
-cd /mnt/QZY/qzynux-ai
-source qzynux-env/bin/activate
-
-# 2. Run floating ball
-python modules/gui/floating_ball.py
-
-# 3. Or run main entry point
-python main.py
-```
+| Component   | Requirement                                            |
+|-------------|--------------------------------------------------------|
+| **OS**      | Linux (Kali recommended), Windows/WSL, macOS           |
+| **RAM**     | 8GB minimum, 16GB recommended                          |
+| **Storage** | 350GB drive (models + data), 50GB recommended          |
+| **Python**  | 3.10+                                                  |
+| **GPU**     | Optional (CPU-only works)                              |
 
 ---
 
--Requirements-:-
+## Models Included
 
-Component Requirement
-OS Linux (Kali recommended), Windows/WSL, macOS
-RAM 8GB minimum, 16GB recommended
-Storage 350GB external drive (models + data), 50GB recommended
-Python 3.10+
-GPU Optional (CPU-only works)
-
----
-
-Models Included:-
-
-Model Size Purpose
-phi3 2.2 GB Quick tasks, daily chat
-qwen3:8b 5.2 GB Reasoning, long context (131K), mostly calculations handled by developer(s) with custom functions for fast output of normal calculations
-deepseek-r1:7b 4.7 GB Security, CTF, code generation
-glm4:9b 5.2 GB Function calling, tool use
+| Model              | Size   | Purpose                                               |
+|--------------------|--------|-------------------------------------------------------|
+| **phi3**           | 2.2 GB | Quick tasks, daily chat                               |
+| **qwen3:8b**       | 5.2 GB | Reasoning, long context (131K). Complex calculations handled by custom math functions for instant output |
+| **deepseek-r1:7b** | 4.7 GB | Security, CTF, code generation, logical reasoning     |
+| **glm4:9b**        | 5.2 GB | Function calling, tool use, long context (128K), chat |
 
 ---
 
-Documentation:-
+## Documentation
 
-· LICENSE.md — Usage terms
-· LICENSE2.md — Usage terms of PyQt6
-· NOTICE.md — Third-party credits
-· COMMERCIAL-LICENSE.md — Commercial licensing
-
----
-
-License:-
-
-This project is licensed under Apache 2.0 with Commons Clause.
-
-✅ Personal use, modification, study allowed
-
-❌ Commercial use, selling, SaaS without permission
-
-For commercial licensing: exploitxpassion@proton.me
+| File                      | Description                               |
+|---------------------------|-------------------------------------------|
+| **LICENSE.md**            | Usage terms (Apache 2.0 + Commons Clause) |
+| **NOTICE.md**             | Third-party credits and model licenses    |
+| **COMMERCIAL-LICENSE.md** | Commercial licensing terms                |  
+| **PRIVACYandPOLICY.md**   | Privacy policy                            |
+| **TERMSandCONDITIONS.md** | Terms and conditions                      |
 
 ---
 
-Disclaimer:-
+## License
 
-This software is for educational and personal use only.
-Unauthorized use for malicious purposes is strictly prohibited.
+This project is licensed under **Apache 2.0 with Commons Clause**.
+
+| ✅ Allowed                          | ❌ Not Allowed                                   |
+|-------------------------------------|--------------------------------------------------|
+| Personal use, modification, study   | Commercial use, selling, SaaS without permission |
+| GUI code under GPL v3 (open source) | Decrypting, reverse engineering core modules     |
+
+For commercial licensing: **exploitxpassion@proton.me**
+
+
+## Disclaimer
+
+This software is for **educational and personal use only**.  
+Unauthorized use for malicious purposes is strictly prohibited.  
 The author assumes no liability for misuse.
 
----
 
-Contact:-
+## Contact
 
-📧 Email: exploitxpassion@proton.me
+📧 **Email:** exploitxpassion@proton.me
 
-```
+**© 2026 EXPLOITX PASSION. All rights reserved.**
