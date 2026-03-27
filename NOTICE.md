@@ -21,18 +21,18 @@ respective licenses is maintained.
 
 ### Ollama
 - **License**: MIT
-- **Source**: https://ollama.com/install.sh
+- **Source**: https://github.com/ollama/ollama
 - **Purpose**: Local LLM inference engine.
 
 ### phi3 (Microsoft)
 - **License**: MIT
-- **Source**: https://ollama.com/library/phi3
+- **Source**: https://huggingface.co)/microsoft/Phi-3-mini-4k-instruct 
 - **Size**: 2.2 GB
 - **Purpose**: Lightweight, fast local LLM for quick tasks.
 
 ### qwen3:8b (Alibaba Cloud)
 - **License**: Apache 2.0
-- **Source**: https://ollama.com/library/qwen3:8b
+- **Source**: https://huggingface.co/Qwen/Qwen3-8b h  w r
 - **Size**: 5.2 GB
 - **Purpose**: Reasoning, long context (131K), general tasks.
 
@@ -44,7 +44,7 @@ respective licenses is maintained.
 
 ### glm4:9b (Zhipu AI / Tsinghua University)
 - **License**: Apache 2.0
-- **Source**: https://ollama.com/library/glm4:9b
+- **Source**: https://huggingface.co/THUDM/glm-4-9b-chat
 - **Size**: 5.5 GB
 - **Purpose**: Function calling, tool use, long context (128K), chat.
 
