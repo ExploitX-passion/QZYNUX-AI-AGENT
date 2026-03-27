@@ -434,47 +434,6 @@ class ChatWindow(QMainWindow):
                     color: #ff0033;
                 }
             """)
-            
-        # """Update user profile bubble in sidebar"""
-        # if self.user_profile.is_logged_in:
-        #     self.user_bubble.setText(f"👤  {self.user_profile.username}")
-        #     self.user_bubble.setToolTip(f"Logged in as: {self.user_profile.username}\nClick to logout")
-        #     self.user_bubble.setStyleSheet("""
-        #         QPushButton {
-        #             background-color: #ff0033;
-        #             border: none;
-        #             border-radius: 20px;
-        #             padding: 8px 16px;
-        #             font-size: 14px;
-        #             font-weight: bold;
-        #             color: white;
-        #         }
-        #         QPushButton:hover {
-        #             background-color: #cc0029;
-        #         }
-        #     """)
-
-        # else:
-        #     self.user_bubble.setText("👤  Guest")
-        #     self.user_bubble.setToolTip("Click to login")
-        #     self.user_bubble.setStyleSheet("""
-        #         QPushButton {
-        #             background-color: #2a2a2e;
-        #             border: 1px solid #3a3a3e;
-        #             border-radius: 20px;
-        #             padding: 8px 16px;
-        #             font-size: 14px;
-        #             color: #888888;
-        #         }
-        #         QPushButton:hover {
-        #             background-color: #3a3a3e;
-        #             color: #ff0033;
-        #         }
-        #         QPushButton:focus {
-        #             outline: 2px solid #ff8888;
-        #             outline-offset: 2px;
-        #         }
-        #     """)
 
     def show_profile_info(self):
         """Show profile information (will be managed in Settings)"""
